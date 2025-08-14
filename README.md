@@ -2,12 +2,11 @@
 
 An experimental **Three.js** project demonstrating 3D rendering, primitive shapes, textures, lighting, and camera control in the browser.
 
----
 
 ## 📸 Preview
 ![Demo Screenshot](https://github.com/Lut-Lat-Aung/threejs/blob/d0c98fa8f3e96b647bb493e412b5db58e2b416be/images/dice_roller.png)
 
----
+
 
 ## ✨ Features
 - Interactive **3D scene** rendered with [Three.js](https://threejs.org/)
@@ -16,14 +15,14 @@ An experimental **Three.js** project demonstrating 3D rendering, primitive shape
 - Configurable **camera** and **lighting**
 - Easily extendable for more complex scenes
 
----
+
 
 ## 🛠️ Tech Stack
 - **JavaScript** / **ES Modules**
 - **Three.js**
 - HTML / CSS
 
----
+
 
 ## 🚀 Getting Started
 
