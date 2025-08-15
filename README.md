@@ -4,7 +4,7 @@ An experimental **Three.js** project demonstrating 3D rendering, primitive shape
 
 
 ## 📸 Preview
-![Demo Screenshot](https://github.com/Lut-Lat-Aung/threejs/blob/d0c98fa8f3e96b647bb493e412b5db58e2b416be/images/dice_roller.png)
+![Demo Screenshot](https://github.com/Lut-Lat-Aung/threejs/blob/a80411fa929c321846ca9f51bfa8cdff4c442dad/images/preview.png)
 
 
 
